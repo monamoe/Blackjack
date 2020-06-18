@@ -1,0 +1,15 @@
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\bin\Debug\Quiz2.exe.config
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\bin\Debug\Quiz2.exe
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\bin\Debug\Quiz2.pdb
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\MainWindow.g.cs
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\App.g.cs
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2_MarkupCompile.cache
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2_MarkupCompile.lref
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\MainWindow.baml
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2.g.resources
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2.Properties.Resources.resources
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2.exe
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\Quiz2\obj\Debug\Quiz2.pdb

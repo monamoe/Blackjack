@@ -1,0 +1,30 @@
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\bin\Debug\BlackjackGUI.exe.config
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\bin\Debug\BlackjackGUI.exe
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\bin\Debug\BlackjackGUI.pdb
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\App.g.cs
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI_MarkupCompile.cache
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI_MarkupCompile.lref
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\MainWindow.baml
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.g.resources
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.Properties.Resources.resources
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.exe
+C:\Users\Brian\Desktop\DotNet\BlackjackConsole\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.pdb
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\bin\Debug\BlackjackGUI.exe.config
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\bin\Debug\BlackjackGUI.exe
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\bin\Debug\BlackjackGUI.pdb
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.csprojAssemblyReference.cache
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\MainWindow.g.cs
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\App.g.cs
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI_MarkupCompile.cache
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI_MarkupCompile.lref
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\MainWindow.baml
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.g.resources
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.Properties.Resources.resources
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.csproj.GenerateResource.cache
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.exe
+C:\Users\Abdulrahman\Documents\!_Work Stuff\4_Semester\1_Net C# programming\Assignment_1\BlackjackConsole-June02\BlackjackConsole\BlackjackGUI\obj\Debug\BlackjackGUI.pdb
